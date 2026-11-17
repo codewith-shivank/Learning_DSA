@@ -1,6 +1,6 @@
 // Online Java Compiler (Editor)
 // Write and run Java online using this editor.
-class operators {
+class OperatorsPractice {
     // Arithmetic Operators
 
     public static void main(String[] args) {

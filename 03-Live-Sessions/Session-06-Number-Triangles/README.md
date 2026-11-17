@@ -1,5 +1,7 @@
 # Session 06: Number Triangle Patterns
 
+[All sessions](../README.md)
+
 Five left-aligned triangle patterns using nested loops. Each example prints five rows (`n = 5`). The original loop logic and output are preserved.
 
 ## Learning order
@@ -68,7 +70,7 @@ The programs also print a trailing space after each number.
 
 ## Compile and run
 
-Open PowerShell in this Session-06 folder with a JDK installed:
+Open PowerShell in this session folder with a JDK installed:
 
 ```powershell
 New-Item -ItemType Directory -Force build | Out-Null

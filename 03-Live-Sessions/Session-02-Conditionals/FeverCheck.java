@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class FewerCheck {
+class FeverCheck {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

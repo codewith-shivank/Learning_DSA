@@ -1,5 +1,7 @@
 # Session 05: Binary Numbers
 
+[All sessions](../README.md)
+
 Practice binary-to-decimal conversion, decimal-to-binary conversion, and binary addition. Folder numbers show the suggested learning order.
 
 | Folder | Java file | Purpose |
@@ -13,7 +15,7 @@ Practice binary-to-decimal conversion, decimal-to-binary conversion, and binary 
 
 ## Compile and run
 
-Open PowerShell in this Session-05 folder with a JDK installed:
+Open PowerShell in this session folder with a JDK installed:
 
 ```powershell
 New-Item -ItemType Directory -Force build | Out-Null

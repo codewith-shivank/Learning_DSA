@@ -1,0 +1,13 @@
+# Java compiler output and local build directories
+*.class
+build/
+out/
+bin/
+target/
+
+# Local IDE and operating-system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log

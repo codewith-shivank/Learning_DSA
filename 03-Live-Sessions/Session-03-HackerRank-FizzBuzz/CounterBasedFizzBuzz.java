@@ -1,5 +1,5 @@
 
-public class OptimusSolutionFizzBuzz {
+public class CounterBasedFizzBuzz {
 
     public static void main(String[] args) {
         int n = 100;
@@ -10,7 +10,7 @@ public class OptimusSolutionFizzBuzz {
             Buzz++;
             if (Fizz == 3 && Buzz == 5) {
                 System.out.println("FizzBuzz");
-                d Fizz = 0;
+                Fizz = 0;
                 Buzz = 0;
             } else if (Fizz == 3) {
                 Fizz = 0;
