@@ -1,0 +1,16 @@
+PSEUDOCODE: Find the Greatest of Two Numbers
+
+BEGIN
+    DISPLAY "Enter the first number"
+    INPUT first
+    DISPLAY "Enter the second number"
+    INPUT second
+
+    IF first > second THEN
+        DISPLAY first, " is the greatest"
+    ELSE IF second > first THEN
+        DISPLAY second, " is the greatest"
+    ELSE
+        DISPLAY "Both numbers are equal"
+    END IF
+END

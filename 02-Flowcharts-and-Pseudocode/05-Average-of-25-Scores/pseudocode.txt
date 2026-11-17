@@ -1,0 +1,14 @@
+PSEUDOCODE: Calculate the Average of 25 Exam Scores
+
+BEGIN
+    total <- 0
+
+    FOR scoreNumber <- 1 TO 25 DO
+        DISPLAY "Enter exam score ", scoreNumber
+        INPUT score
+        total <- total + score
+    END FOR
+
+    average <- total / 25
+    DISPLAY "Average = ", average
+END

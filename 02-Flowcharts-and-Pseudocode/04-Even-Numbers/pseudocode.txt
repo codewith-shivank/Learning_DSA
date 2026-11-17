@@ -1,0 +1,10 @@
+PSEUDOCODE: Display Even Numbers Between 9 and 100
+
+BEGIN
+    number <- 10
+
+    WHILE number < 100 DO
+        DISPLAY number
+        number <- number + 2
+    END WHILE
+END

@@ -1,0 +1,8 @@
+PSEUDOCODE: Calculate the Area of a Circle
+
+BEGIN
+    DISPLAY "Enter the radius of the circle"
+    INPUT radius
+    area <- PI * radius * radius
+    DISPLAY "Area of the circle = ", area
+END

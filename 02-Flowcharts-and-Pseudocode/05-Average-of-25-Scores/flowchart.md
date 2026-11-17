@@ -1,0 +1,14 @@
+# Average of 25 Exam Scores
+
+```mermaid
+flowchart TD
+    A([Start]) --> B[Set total = 0; scoreNumber = 1]
+    B --> C{Is scoreNumber <= 25?}
+    C -- Yes --> D[/Input score/]
+    D --> E[total = total + score]
+    E --> F[scoreNumber = scoreNumber + 1]
+    F --> C
+    C -- No --> G[average = total / 25]
+    G --> H[/Display average/]
+    H --> I([End])
+```
